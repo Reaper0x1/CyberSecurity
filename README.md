@@ -29,4 +29,4 @@ sudo airodump-ng wlan0mon -c N & wireshark
 
 -   Search a beacon frame 
 
-![A test image](./Resources/WIFI/Half-Handshake_Attack.png)
+![A test image](./Resources/WIFI/Half-Handshake%20Attack/beacon_frame.png)
