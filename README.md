@@ -6,7 +6,7 @@
 ifconfig
 ``` 
 
--   Note **wlan0** (or your wireless network card).
+-   Note **wlan0** (or your wireless network card name).
 
 -   Enter monitor mode:
 ```bash
