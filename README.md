@@ -29,4 +29,14 @@ sudo airodump-ng wlan0mon -c N & wireshark
 
 -   Search a beacon frame 
 
-![A test image](./Resources/WIFI/Half-Handshake%20Attack/beacon_frame.png)
+    ![A hha 1](./Resources/WIFI/Half-Handshake%20Attack/beacon_frame_1.png)
+
+-   Right click on Trasmitter address -> Apply as Filter -> Selected
+
+-   Copy and pipe the same string as `wlan.ta MAC address || wlan.da MAC address` :
+
+    ![A hha 2](./Resources/WIFI/Half-Handshake%20Attack/beacon_frame_2.png)
+
+-   Press thi button on top bar:
+
+    ![A hha 3](./Resources/WIFI/Half-Handshake%20Attack/beacon_frame_3.png)
